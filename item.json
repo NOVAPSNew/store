@@ -1,0 +1,23 @@
+{
+  "packages": [
+    {
+      "id": "CUSA09267",
+      "name": "A Hat in Time",
+      "desc": "Region USA",
+      "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA09267.png",
+      "package": "https://archive.org/download/ps4-fpkg-collection-english-a/AHatInTime.pkg",
+      "version": "1.04",
+      "picpath": "/user/app/NPXS39041/storedata/PNG.png",
+      "desc_1": "",
+      "desc_2": "",
+      "ReviewStars": "5",
+      "Size": "7.2 GBs",
+      "Author": "Store",
+      "apptype": "Game",
+      "pv": "9.00",
+      "main_icon_path": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA09267.png",
+      "main_menu_pic": "/user/app/NPXS39041/storedata/PNG.png",
+      "releaseddate": "2013-11-15"
+    }
+  ]
+}
